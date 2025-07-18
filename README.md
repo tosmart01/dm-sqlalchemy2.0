@@ -6,8 +6,8 @@
 ## 达梦sqlalchemy版本
 - 2.0.1
 
-## 源码安装
-- pip install .
+## 安装方式
+- 将sqlalchemy2.0 文件夹替换到 drivers\python\sqlalchemy2.0
 
 ## 已修复问题
 1. **自增id返回异常(id值不对)问题**
